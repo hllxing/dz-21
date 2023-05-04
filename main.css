@@ -1,0 +1,14 @@
+#focusedDiv{
+    margin: 0 auto;
+    display: none;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    background-color: gold;
+}
+#focusedDiv > span{
+    display: block;
+    padding-top: 50px;
+    color: black;
+    font-size: 40px;
+}
